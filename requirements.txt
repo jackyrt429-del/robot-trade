@@ -1,4 +1,4 @@
 streamlit
 pandas
 numpy
-fxcmpy
+ib-async
