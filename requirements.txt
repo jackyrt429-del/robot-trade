@@ -1,6 +1,5 @@
 streamlit
 pandas
-numpy
 websockets
-nest_asyncio
+asyncio
 
